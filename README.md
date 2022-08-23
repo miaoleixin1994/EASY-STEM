@@ -1,4 +1,8 @@
 # EASY-STEM
+
+If you find this software useful, please cite my paper, thank you. :) 
+Miao, Leixin, Adrian Chmielewski, Debangshu Mukherjee, and Nasim Alem. "Picometer-Precision Atomic Position Tracking through Electron Microscopy." JoVE (Journal of Visualized Experiments) 173 (2021): e62164.
+
 Required Environment: Matlab and the Image Processing ToolBox in Matlab
 
 EASY-STEM is a Matlab app with graphical user interface for basic image analysis on scanning electron microscopy images. 
