@@ -1,8 +1,10 @@
 # EASY-STEM
 
-If you find this software useful, please cite my paper, thank you. :) 
+If you find this software useful, please cite our publications, thank you. :) 
 
-Miao, Leixin, Adrian Chmielewski, Debangshu Mukherjee, and Nasim Alem. "Picometer-Precision Atomic Position Tracking through Electron Microscopy." JoVE (Journal of Visualized Experiments) 173 (2021): e62164.
+Miao, Leixin, Adrian Chmielewski, Debangshu Mukherjee, and Nasim Alem. "Picometer-Precision Atomic Position Tracking through Electron Microscopy." JoVE (Journal of Visualized Experiments) 173 (2021): e62164
+
+Mukherjee, Debangshu, Leixin Miao, Greg Stone, and Nasim Alem. "mpfit: a robust method for fitting atomic resolution images with multiple Gaussian peaks." Advanced Structural and Chemical Imaging 6, no. 1 (2020): 1-12.
 
 Required Environment: Matlab and the Image Processing ToolBox in Matlab
 
